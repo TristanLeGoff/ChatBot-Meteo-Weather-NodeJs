@@ -5,7 +5,8 @@ To run the project :
 >node app.js  
   
 To test it you can try to say : 
->Hello
+>Hello  
+
 The two principal commands are : 
 >weather in <city>
 >information in <city>
