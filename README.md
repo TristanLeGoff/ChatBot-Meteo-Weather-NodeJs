@@ -8,5 +8,5 @@ To test it you can try to say :
 >Hello  
 
 The two principal commands are : 
->weather in <city>
->information in <city>
+>weather in "name of the city"  
+>information in "name of the city"
